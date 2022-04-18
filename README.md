@@ -1,2 +1,2 @@
-# python-homework
-Python language programming
+南京财经大学
+</br>python语言程序设计课后作业
